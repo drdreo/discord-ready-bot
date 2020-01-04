@@ -12,7 +12,7 @@ interface ReadyUser extends User {
 	ready: boolean;
 }
 
-let PREFIX = '!';
+let PREFIX = '!!';
 
 @Discord
 export class DiscordReadyBot {
